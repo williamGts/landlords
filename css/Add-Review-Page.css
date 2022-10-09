@@ -1,0 +1,147 @@
+body{
+ background-color: rgb(249, 172, 168);
+}
+
+.landlord-image {
+    width: 300px;
+    height: 300px;
+}
+
+.right{
+    font-size: 17px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.main-canvas {
+    width: 100%;
+    height: 600px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.landlord-image{
+    filter: drop-shadow(10px 10px 10px #222);
+}
+
+
+.display-canvas {
+    background-color: #ffffff;
+    width: 95%;
+    height: 550px;
+    position: absolute;
+    top: 150px;
+    left: 2.5%;
+   
+}
+
+.header {
+    width: 100%;
+    position: fixed;
+}
+
+.header p {
+    font-size: 3em;
+}
+
+.left {
+    display: inline-block;
+    width: 30%;
+    position: fixed;
+    left: 90px;
+}
+
+.left h1 {
+    font-size: 3em;
+}
+
+.left p {
+    font-size: 1.3em;
+}
+
+.right {
+    position: absolute;
+    bottom: 20px;
+    right: 125px;
+    display: inline-block;
+    width: 55%;
+    background-color: rgb(241, 241, 241);
+}
+
+.rating {
+    background: #6c6e73;
+    width: 30px;
+    height: 20px;
+    border-radius: 3px;
+    display: inline-block;
+    color: white;
+    position: relative;
+    bottom: 10px;
+}
+
+.best-rating {
+    display: inline-block;
+    position: relative;
+    bottom: 8px;
+}
+
+.rating-personality {
+    position: absolute;
+    left: 30px;
+    bottom: 340px;
+}
+
+.rating-location {
+    position: absolute;
+    left: 30px;
+    bottom: 230px;
+}
+
+.rating-utilities {
+    position: absolute;
+    left: 30px;
+    bottom: 140px;
+}
+
+.enter-location {
+    width: 50%;
+    position: absolute;
+    left: 30px;
+    bottom: 450px;
+}
+
+.location-form {
+    position: relative;
+    bottom: 10px;
+}
+
+.enter-name {
+    position: relative;
+    bottom: 313px;
+    left: 250px;
+}
+
+.comments {
+    position: relative;
+    left: 30px;
+}
+
+.location-form {
+    background: #6c6e73;
+    width: 25%;
+    height: 20px;
+    border-radius: 3px;
+    display: inline-block;
+    color: white;
+}
+
+.btn {
+    position: relative;
+    bottom: 10px;
+    right: 10px;
+    float: right;
+    border: 0;
+    background: #1457ff;
+    color: #fff;
+    border-radius: 20px;
+    padding: 12px 20px;
+    cursor: pointer;
+}

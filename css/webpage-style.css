@@ -1,0 +1,270 @@
+body {
+    width: 100%;
+    height: 600px;
+    background-color: #000000;
+}
+
+.white{
+    color: #ffffff;
+}
+
+.container-fluid{
+    background-color: #000000;
+    padding: 5% 10%;
+    color: #DD5353;
+}
+
+.navbar-brand{
+    color: #DD5353;
+}
+
+html{
+    background-color: #000000;
+}
+
+.pagej {
+    width: 100%;
+    height: 600px;
+    background-color: #000000;
+    
+}
+
+.headerj {
+    width: 100%;
+    height: 50px;
+    background-color: #251B37;
+    color: white;
+}
+
+.main-displayj {
+    color: #DD5353;
+    padding: 3%;
+    width: 70%;
+    height: 500px;
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    
+    bottom: 200px;
+}
+
+.right-displayj {
+    width: 45%;
+    height: 500px;
+    float: right;
+    position: relative;
+    right: 90px;
+}
+
+.right-rating-distributionj {
+    position: absolute;
+    top: 10px;
+    width: 100%;
+}
+
+.imagej {
+    width: 500px;
+    height: 300px;
+}
+
+.red{
+    color: #DD5353;
+}
+
+.right-similar-landlords-ratingsj {
+    position: absolute;
+    bottom: 90px;
+    background-color: #EDDBC0;
+    padding: 20px;
+    width: 121%;
+    text-align: center;
+}
+
+.rating-studentj {
+    width: 80%;
+    height: 200px;
+}
+
+.rating-numbersj {
+    width: 10%;
+    position: absolute;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.rating-numbersj2 {
+    top: 30px;
+    position: relative;
+}
+
+.fonts{
+    font-size: 19px;
+}
+
+
+.qualityj {
+    font-size: 2em;
+    text-align: center;
+    font-family: HelveticaNeue, arial;
+}
+
+.quality-numberj {
+    position: absolute;
+    top: 50px;
+    left: 15px;
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    font-size: 2em;
+    background-color: rgb(127,246,194);
+}
+
+.cityj {
+    display: block;
+    font-size: 1.3em;
+}
+
+.datej {
+    float: right;
+}
+
+.rent-pricej {
+    position: relative;
+    left: 30px;
+    display: inline-block;
+    font-size: 1.2em;
+}
+
+.rating-studentj {
+    background-color: rgb(249, 249, 249);
+    width: 120%
+}
+
+.rating-remarksj {
+    width: 80%;
+    float: right;
+    position: absolute;
+    left: 200px;
+}
+
+.rent-choicej {
+    font-size: 1.2em;
+    display: inline-block;
+}
+
+.left-displayj {
+    width: 45%;
+    height: 500px;
+    display: inline-block;
+    position: relative;
+    left: 30px;
+}
+
+
+
+.left-ratingj {
+    width: 40%;
+    height: 50px;
+}
+
+.left-rating-scorej {
+    display: inline-block;
+    font-size: 3em;
+    font-family: Poppins, sans-serif;
+    font-weight: 900;
+}
+
+.best-ratingj {
+    display: inline-block;
+}
+
+.left-first-namej {
+    display: inline-block;
+    font-size: 2.5em;
+    font-family: Poppins, sans-serif;
+    font-weight: 900;
+}
+
+.left-last-namej {
+    display: inline-block;
+    position: absolute;
+    left: 160px;
+    font-size: 2.5em;
+    font-family: Poppins, sans-serif;
+    font-weight: 900;
+}
+
+.left-landlord-locationj {
+    position: relative;
+    top: 10px;
+}
+
+.ratej {
+    position: absolute;
+    bottom: 150px;
+}
+
+.would-rent-againj {
+    position: absolute;
+    bottom: 225px;
+    font-family: Poppins, sans-serif;
+    font-weight: 900;
+}
+
+.percent-would-rent-againj {
+    font-size: 3em;
+}
+
+.utilitiesj {
+    display: inline-block;
+    font-size: 1.2em;
+    position: relative;
+    left: 50px;
+}
+
+.btn {
+    border-radius: 20px;
+
+    color: #fff;
+    padding: 12px 50px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+.btn:hover {
+    background: #2980b9;
+}
+
+.percent-would-rent-againj {
+    position: relative;
+}
+
+.text-would-rent-againj {
+    position: relative;
+}
+
+.landlord-top-tagsj {
+    position: absolute;
+    bottom: 100px;
+}
+
+.landlord-tagsj {
+    position: relative;
+    top: 50px;
+    font-size: 1.3em;
+}
+
+.tagsj {
+    position: relative;
+    top: 50px;
+    display: inline-block;
+    border: 1px;
+    margin: 0px 16px 8px 0px;
+    padding: 8px 16px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgb(241, 241, 241);
+    border: 1px solid;
+    font-family: HelveticaNeue, arial;
+    font-weight: 700;
+}

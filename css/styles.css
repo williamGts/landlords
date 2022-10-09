@@ -1,0 +1,277 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.theend{
+    color: antiquewhite;
+    background-color:#DD5353;
+    position: relative;
+    top: 0px;   
+    
+}
+
+.homebutton{
+    margin-left: 680px;
+
+}
+
+.searchlandlord{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    padding-bottom: 0%;
+}
+
+
+#footer{
+    top: 30px;
+    position: relative;
+    
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 800;
+    line-height: 1.5;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 700;
+    color: antiquewhite;
+}
+
+
+.pricingh2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 700;
+    color: #472D2D;
+}
+
+.small{
+    color: antiquewhite;
+    font-size: 40px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 1.3rem;
+}
+
+p {
+    color: rgb(96, 92, 92);
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+#title {
+    background-color: #DD5353;
+    color: azure;
+}
+
+.first-pgg{
+    padding: 2.5%;
+    padding-left: 0%;
+}
+
+/* navigation-bar */
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: 12;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+}
+
+/* download buttons */
+.download-b {
+    margin: 5% 3% 3% 0%;
+}
+
+/* imgage */
+.title-image {
+    width: 90%;
+    /* transform: rotate(25deg); */
+}
+
+/* features */
+
+#features {
+    padding: 10% 15%;
+    font-size: large;
+    background-color: #efefef;
+}
+
+.feature-box {
+    font-size: x-large;
+    text-align: center;
+    padding: 5%;
+}
+
+/* icons */
+.icons {
+    color: #B73E3E;
+    margin-bottom: 1rem;
+}
+
+.icons:hover {
+    color: #e85bab;
+}
+
+/* testimomial */
+#testimonials {
+    text-align: center;
+    background-color: #000000;
+    color: rgb(230, 138, 138);
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.test-image {
+    width: 100%;
+    filter: drop-shadow(10px 10px 10px #222);
+}
+
+
+/* press section */
+#press {
+    background-color: #000000;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+
+.logo {
+    width: 15%;
+    margin: 20px 20px 20px 30px;
+}
+
+.logo-brand {
+    width: 10%;
+    margin: 20px 20px 20px 30px;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    color: #efefef;
+    height:max-content;
+    font-weight: 900;
+}
+
+.logo-brand1 {
+    width: 15%;
+    margin: 20px 20px 20px 30px;
+}
+
+/* pricing */
+#pricing {
+    background-color: #DD5353;
+    padding: 10%;
+    text-align: center;
+}
+
+.pricing-col {
+    padding: 3% 2%;
+}
+
+/* -------- */
+
+.containerh-100{
+    height: 10%;
+    width: 100%;
+    margin-bottom: 40px;
+    padding: 0;
+    background: #DD5353 !important;
+}
+
+.searchbar {
+    margin-bottom: auto;
+    margin-top: auto;
+    height: 60px;
+    background-color: #353b48;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.search_input {
+    color: white;
+    border: 0;
+    outline: 0;
+    background: none;
+    width: 0;
+    caret-color: transparent;
+    line-height: 40px;
+    transition: width 0.4s linear;
+}
+
+.searchbar:hover>.search_input {
+    padding: 0 10px;
+    width: 450px;
+    caret-color: red;
+    transition: width 0.4s linear;
+}
+
+.searchbar:hover>.search_icon {
+    background: white;
+    color: #e74c3c;
+}
+
+.search_icon {
+    height: 40px;
+    width: 40px;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color: white;
+    text-decoration: none;
+}
+
+/* ------------------------- */
+
+.background {
+    transform: translateZ(-10px) scale(2);
+  }
+  
+  .foreground {
+    transform: translateZ(-5px) scale(1.5);
+  }
+  
+
+
+
+
+
+
+
+
+
+
+  
